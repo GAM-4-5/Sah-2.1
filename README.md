@@ -3,6 +3,6 @@
 
 ROADMAP:
 1. <strike>Prisjećanje tkintera</strike>
-2. Izrada polja i figura
+2. <strike>Izrada polja i figura</strike> (figure će biti dodane na kraju zbog jednostavnosti)
 3. Izrada i povezivanje šahovskih zagonetki, to jest razina
 4. Završni dodiri (uvođenje života, timera i slično)
