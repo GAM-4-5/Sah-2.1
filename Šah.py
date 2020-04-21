@@ -64,7 +64,7 @@ class Sah(Frame):
 
 
     
-    #samo copypaste s izmjenjenim imenima funkcija i onoga u zagradi (klik1 u klik2), kasnije će biti svih 10
+    #samo copypaste s izmijenjenim imenima funkcija i onoga u zagradi (klik1 u klik2), kasnije će biti svih 10
     def KreirajSucelje2(self):
         self.l=[]
         self.l1=[]
